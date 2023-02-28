@@ -1,0 +1,15 @@
+blank_issues_enabled: false
+
+contact_links:
+
+  - name: David Studios Forum
+
+    url: https://forums.davidstudios.uk/
+
+    about: Please ask any questions here.
+
+  - name: Email Support
+
+    url: mailto:support@davidstudis.uk
+
+    about: Is your issue too sensitive to be posted on issues or the forum? Email us instead!
